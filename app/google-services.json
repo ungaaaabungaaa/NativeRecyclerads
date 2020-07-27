@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994842925152",
+    "firebase_url": "https://ads-test-d6872.firebaseio.com",
+    "project_id": "ads-test-d6872",
+    "storage_bucket": "ads-test-d6872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994842925152:android:b94c78ec0cd572a3c94b05",
+        "android_client_info": {
+          "package_name": "com.example.adstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994842925152-fcak88303tj73c4hu3rn0cfpr114942u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTp1x2A0C7cTb20P2aUtBUsVpQn0EqKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994842925152-fcak88303tj73c4hu3rn0cfpr114942u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
